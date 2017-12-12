@@ -9,6 +9,9 @@ nav {
 
 }
 a {
+  background-color:gray;
+  padding:10px;
+  margin-left:-4px;
   width:100px;
   height:50px;
   -webkit-transition: width 2s;
