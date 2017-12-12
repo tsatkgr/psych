@@ -22,3 +22,9 @@ article {
   padding:15px;
   
 }
+.background-image{
+  background-image:url("zen-2040340_1280.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+  padding:275px;
+}
