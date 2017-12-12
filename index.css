@@ -1,3 +1,4 @@
+
 nav {
   text-decoration: none;
   padding:10px;
@@ -11,4 +12,13 @@ a {
 }
 a:hover {
   width: 120px;
+}
+article {
+  font-family: "oxygen", sans-serif;
+  background-color: silver;
+  color: white;
+  width: auto;
+  top: 30%;
+  padding:15px;
+  
 }
