@@ -38,3 +38,12 @@ article {
   background-repeat:no-repeat;
   padding:275px;
 }
+
+#title{
+  color: white;
+  margin: 0px;
+  margin-left: 5px;
+  text-align: left;
+  display: inline-block;
+  line-height: 58px;
+}
