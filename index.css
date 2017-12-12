@@ -1,4 +1,7 @@
-
+body{
+  margin:0;
+  padding:0;
+}
 nav {
   text-decoration: none;
   padding:10px;
