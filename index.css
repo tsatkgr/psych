@@ -8,7 +8,8 @@ nav {
   width: 50%;
   margin: 0 auto;
   position: fixed;
-  top: 50px;
+  top: 0px;
+  display:inline-block;
 }
 a {
    text-decoration: none;
