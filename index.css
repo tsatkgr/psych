@@ -5,13 +5,13 @@ body{
 nav {
   padding:10px;
   margin:0;
+  text-align:center;
 
 }
 a {
-  background-color:gray;
    text-decoration: none;
   padding:10px;
-  color:yellow;
+  color:white;
   margin-left:-4px;
   width:100px;
   height:50px;
