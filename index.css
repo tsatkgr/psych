@@ -32,12 +32,12 @@ a {
 
 /* Chrome, Safari, Opera */
 @-webkit-keyframes mymove {
-    50% {border-bottom: 3px solid white;}
+    100% {border-bottom: 3px solid white;}
 }
 
 /* Standard syntax */
 @keyframes mymove {
-    50% {border-bottom: 3px solid white;}
+    100% {border-bottom: 3px solid white;}
 }
 
 
