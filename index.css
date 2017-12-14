@@ -5,6 +5,8 @@ body{
 
   .background-image{
     background-image:url("landscape-1158269_1280.jpg");
+    height:cover;
+    padding:275px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
