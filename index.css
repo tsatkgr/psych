@@ -22,6 +22,25 @@ a {
   -webkit-transition: width 2s;
   transition: width 2s;
 }
+#myDIV {
+    width: 300px;
+    height: 200px;
+    border: 0px solid black;
+    -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 5s infinite;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes mymove {
+    50% {border-bottom: 15px solid white;}
+}
+
+/* Standard syntax */
+@keyframes mymove {
+    50% {border-bottom: 15px solid white;}
+}
+
+
 a:hover {
   width: 120px;
 }
