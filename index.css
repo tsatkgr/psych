@@ -1,13 +1,13 @@
 body{
   margin:0;
-  height:100%;
-}
-.background-image{
+  padding:0;
+  .background-image{
     background-image:url("landscape-1158269_1280.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 nav {
   padding:10px;
   margin-top:0;
