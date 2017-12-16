@@ -34,19 +34,19 @@ a {
 #myDIV:hover {
     width: 300px;
     height: 200px;
-    border: 0px solid white;
-    -webkit-animation: mymove 5s; /* Chrome, Safari, Opera */
-    animation: mymove 5s;
+    border: 0px solid black;
+    -webkit-animation: mymove 7s; /* Chrome, Safari, Opera */
+    animation: mymove 7s;
 }
 
 /* Chrome, Safari, Opera */
 @-webkit-keyframes mymove {
-    100% {border-bottom: 3px solid white;}
+    100% {border-bottom: 3px solid black;}
 }
 
 /* Standard syntax */
 @keyframes mymove {
-    100% {border-bottom: 3px solid white;}
+    100% {border-bottom: 3px solid black;}
 }
 
 
