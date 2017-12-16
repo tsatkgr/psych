@@ -23,7 +23,7 @@ a {
    text-decoration: none;
   padding:10px;
   font-size:20px;
-  color:white;
+  color:gray;
   margin-left:-4px;
   font-family: "oxygen", sans-serif;
   width:100px;
@@ -34,7 +34,7 @@ a {
 #myDIV:hover {
     width: 300px;
     height: 200px;
-    border: 0px solid black;
+    border: 0px solid white;
     -webkit-animation: mymove 5s; /* Chrome, Safari, Opera */
     animation: mymove 5s;
 }
